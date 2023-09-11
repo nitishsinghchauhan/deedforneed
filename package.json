@@ -1,0 +1,35 @@
+{
+  "name": "ngo-management-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrishik18/NGO-Management-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrishik18/NGO-Management-System/issues"
+  },
+  "homepage": "https://github.com/hrishik18/NGO-Management-System#readme",
+  "dependencies": {
+    "@mui/material": "^5.11.14",
+    "@openzeppelin/contracts": "^4.8.1",
+    "@truffle/hdwallet-provider": "^2.1.7",
+    "alchemy-sdk": "^2.4.3",
+    "crypto-browserify": "^3.12.0",
+    "eslint-plugin-react": "^7.32.2",
+    "https-browserify": "^1.0.0",
+    "stream-http": "^3.2.0"
+  },
+  "devDependencies": {
+    "eslint-config-react-app": "^7.0.1",
+    "react-scripts": "^5.0.1"
+  }
+}
